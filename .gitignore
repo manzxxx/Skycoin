@@ -1,7 +1,7 @@
 src/*.exe
-src/funcoin
-src/funcoind
-src/test_funcoin
+src/skycoin
+src/skycoind
+src/test_skycoin
 .*.swp
 *.*~*
 *.bak
@@ -9,17 +9,17 @@ src/test_funcoin
 *.orig
 *.o
 *.patch
-.funcoin
+.skycoin
 
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-funcoin-qt
-Funcoin-Qt.app
+skycoin-qt
+skycoin-Qt.app
 
 # Unit-tests
 Makefile.test
-funcoin-qt_test
+skycoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
